@@ -1,16 +1,16 @@
 ---
-title: "Nome do Grupo"
+title: Grupo 6
 icon: lucide/users
 tags: galeria
-status: not-started
+status: Completed
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Grupo"
-hero_subtitle: "Prototipagem Digital · 2025-26"
+hero_title: Nome do Grupo
+hero_subtitle: Prototipagem Digital · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
-course: "PrototipagemDigital"
+course: PrototipagemDigital
 group_name: ""
 group_number: ""
 members:
@@ -20,17 +20,18 @@ members:
     name: ""
 ---
 
-# Nome do Grupo
+# Grupo 6 
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha conceptualmente forte).
+> CNC É DO CARAL** MAS 3D É MELHOR.
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 20XXXXX | Aluno A |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número  | Nome                |
+| ------- | ------------------- |
+| 2025252 | Maria Dias          |
+| 2025285 | Matilde Pita        |
+| 2025487 | Ana Marta Cerqueira |
+| 2025316 | Mariana Mota        |
 
 ---
 
@@ -44,16 +45,16 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
 <!-- markdownlint-disable MD033 -->
 <div class="gallery-grid">
 
-  <a class="gallery-card" href="tutoriais/_modelo/">
-    <img src="tutoriais/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome da Máquina 1</h3>
-    <p>Tutorial detalhado</p>
+  <a class="gallery-card" href="tutoriais/corte-de-vinil/">
+    <img src="tutoriais/corte-de-vinil/attachments/hero.png" alt="" />
+    <h3>Corte de Vinil</h3>
+    <p>Silhouette Cameo</p>
   </a>
 
-  <a class="gallery-card" href="tutoriais/_modelo/">
-    <img src="tutoriais/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome da Máquina 2</h3>
-    <p>Tutorial detalhado</p>
+  <a class="gallery-card" href="tutoriais/impressao-3d/">
+    <img src="tutoriais/impressao-3d/attachments/hero.png" alt="" />
+    <h3>Impressão 3D</h3>
+    <p>Bambu Lab A1 mini</p>
   </a>
 
 </div>
