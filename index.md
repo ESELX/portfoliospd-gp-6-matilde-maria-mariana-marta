@@ -22,7 +22,7 @@ members:
 
 # Grupo 6 
 
-> CNC É DO CARAL** MAS 3D É MELHOR.
+> Veni Vidi Vici
 
 ## Elementos do Grupo
 
@@ -72,10 +72,28 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
 <!-- markdownlint-disable MD033 -->
 <div class="gallery-grid">
 
-  <a class="gallery-card" href="experiencias/_modelo/">
-    <img src="experiencias/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Projeto</h3>
-    <p>Nome do Aluno</p>
+  <a class="gallery-card" href="experiencias/2025487-marta/">
+    <img src="experiencias/2025487-marta/attachments/hero.png" alt="" />
+    <h3>Experiências Individuais</h3>
+    <p>Ana Marta Cerqueira</p>
+  </a>
+
+  <a class="gallery-card" href="experiencias/2025252-maria/">
+    <img src="experiencias/2025252-maria/attachments/hero.png" alt="" />
+    <h3>Experiências Individuais</h3>
+    <p>Maria Dias</p>
+  </a>
+
+  <a class="gallery-card" href="experiencias/2025286-matilde/">
+    <img src="experiencias/2025286-matilde/attachments/hero.png" alt="" />
+    <h3>Experiências Individuais</h3>
+    <p>Matilde Pita</p>
+  </a>
+
+  <a class="gallery-card" href="experiencias/2025316-mariana/">
+    <img src="experiencias/2025316-mariana/attachments/hero.png" alt="" />
+    <h3>Experiências Individuais</h3>
+    <p>Mariana Mota</p>
   </a>
 
 </div>
