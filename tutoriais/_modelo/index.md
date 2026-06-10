@@ -17,7 +17,7 @@ machine_name: ""
 
 > Frase-síntese: o que é a máquina, para que serve, em que contextos é usada.
 
-![](attachments/hero.jpg)
+![](hero.jpg)
 
 Tutorial elaborado pelo grupo seguindo a estrutura de referência (ver tutorial CNC do Fablab Benfica como modelo: <https://fablabbenfica.gitlab.io/fablabbenficadocs/machines/ouplan/>).
 
@@ -51,7 +51,7 @@ Sequência operacional, com fotografias e/ou pequenos vídeos em cada passo crí
 2. Passo 2 — descrição
 3. Passo 3 — ...
 
-![](attachments/hero.jpg)
+![](hero.jpg)
 
 ## 5. Resultado e pós-produção
 
