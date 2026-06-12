@@ -18,7 +18,7 @@ student_number: "2025252"
 
 > Portfólio individual com os projetos desenvolvidos ao longo da unidade curricular de Prototipagem Digital.
 
-![](attachments/hero.png)
+![](Experiências/2025252-maria/attachments/hero.png)
 
 ## Projetos e Exercícios Desenvolvidos
 

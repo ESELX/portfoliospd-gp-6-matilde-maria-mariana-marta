@@ -18,7 +18,7 @@ student_number: "2025487"
 
 > Este suporte de PC, produzido por corte CNC, surge da procura por uma solução prática e organizada para o dia a dia.
 
-![](attachments/hero.png)
+![](Experiências/2025487-marta/attachments/hero.png)
 
 ## Conceito
 
