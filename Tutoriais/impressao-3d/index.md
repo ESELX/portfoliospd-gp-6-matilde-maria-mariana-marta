@@ -17,7 +17,7 @@ machine_name: "Bambu Lab A1 mini"
 
 > A impressão 3D confere diferentes métodos adequados a cada projeto e a cada equipamento. O processo FDM/FFF (Modelagem de Deposição Fundida) derrete um filamento termoplástico (PLA, ABS, PETG) e deposita camada por camada. Este processo foi usado para desenvolver os projetos individuais de cada elemento do grupo, com o uso de PETG, recorrendo ao programa Bambu Studio para adaptar/preparar os modelos feitos no Fusion Autodesk e depois imprimir no equipamento.
 
-![](Tutoriais/impressao-3d/attachments/hero.png)
+![](hero.png.png)
 
 **Tutorial 101:**
 Modelo: Bambu Lab A1 mini
