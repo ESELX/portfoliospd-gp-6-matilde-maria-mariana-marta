@@ -18,7 +18,7 @@ student_number: ""
 
 > Cada elemento do grupo deve duplicar esta pasta, renomear para `<numero>-<primeiro-nome>` e preencher.
 
-![](hero.jpg)
+![](attachments/hero.jpg)
 
 Frase-conceito: ideia central do projeto em uma linha.
 
@@ -47,7 +47,7 @@ Iterações, decisões, aprendizagens. Mostra o percurso, não só o resultado.
 **O que tentei:**
 **O que aprendi:**
 
-![](hero.jpg)
+![](attachments/hero.jpg)
 
 ### Iteração 2 — [título]
 
@@ -57,8 +57,8 @@ Iterações, decisões, aprendizagens. Mostra o percurso, não só o resultado.
 
 Imagens bem produzidas do produto/objeto/intervenção final, com texto explicativo.
 
-![](hero.jpg)
-![](hero.jpg)
+![](attachments/hero.jpg)
+![](attachments/hero.jpg)
 
 ## Reflexão
 
