@@ -51,11 +51,11 @@ Para preparar ficheiros para o programa Silhouette Studio, é preciso o ficheiro
 ## 4. Como operar a máquina passo-a-passo
 
 1. Depois de ligar a maquina é preciso preparar a base de corte, fixando o seu material em uso (película vinil neste contexto), alinhando com os clips da maquina, como vemos nas imagens abaixo.
-![](attachments/Pasted%20image%2020260610123018.png)
-![](attachments/Pasted%20image%2020260610123033.png)
+![](Pasted%20image%2020260610123018.png)
+![](Pasted%20image%2020260610123033.png)
 
 2. Após alinhar a base de corte com a linha guia no lado esquerdo da máquina é só pressionar o botão para carregar/descarregar material (seta para cima/carregar) no painel da máquina e monitorizar o seu funcionamento.
-![](attachments/WhatsApp%20Video%202026-05-27%20at%2017.57.52%20(video-converter.com).mp4)
+![](WhatsApp%20Video%202026-05-27%20at%2017.57.52%20(video-converter.com).mp4)
 
 3. **Remoção segura:** Quando a máquina terminar, é preciso pressionar o botão para descarregar o material (seta para baixo/ejetar) e quando a maquina soltar o vinil basta extrair e aproveitar o corte.
 
