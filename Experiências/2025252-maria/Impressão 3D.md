@@ -18,7 +18,7 @@ student_number: "2025252"
 
 > Para a impressora 3D criei um segurador de copos de café, tive como tema o jogo Kirby.
 
-![](attachments/Pasted%20image%2020260610125605.png)
+![](3D1.png)
 
 ## Conceito
 
@@ -41,11 +41,11 @@ Para a impressora 3D criei um segurador de copos de café, tive como tema o jogo
 **O que tentei:**
 Utilizei então a impressora 3D, que a partir do ficheiro do Fusion360 posto no BambuStudio passou o meu trabalho.
 
-![](attachments/Pasted%20image%2020260610125605.png)
+![](3D1.png)
 
 ## Resultado Final
 
-![](attachments/Pasted%20image%2020260610125605.png)
+![](3D1.png)
 
 ## Reflexão
 

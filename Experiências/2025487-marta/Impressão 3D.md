@@ -18,7 +18,7 @@ student_number: "2025487"
 
 > Como proposta, foi desenvolvido um suporte compacto para discos de algodão, com o objetivo de facilitar a organização no dia a dia.
 
-![](attachments/Pasted%20image%2020260610130308.png)
+![](algodaoresultado.png)
 
 ## Conceito
 
@@ -46,20 +46,20 @@ O modelo também foi pensado para impressão 3D, utilizando formas simples que a
 **O que tentei:**
 Iniciei por uma busca de referências na plataforma Pinterest. Após descobrir algumas hipóteses disponíveis a desenvolver, comecei o processo de modelagem 3D. Selecionei a opção de um dispensário de cotonetes e discos de algodão para impressão na Bambu Lab Mini.
 
-![](attachments/Pasted%20image%2020260610130144.png)
+![](Attachments/algodao.png)
 
 ### Iteração 2 — Otimização do Tempo de Impressão
 
 **O que tentei:**
 No meu primeiro momento de impressão fui confrontada com a problemática do tempo. O modelo que projetei apresentava uma estimativa de 8 horas de impressão, o que não poderia ser possível, com base nisso realizei algumas alterações de modo a diminuir o tempo.
 
-![](attachments/Pasted%20image%2020260610130206.png)
+![](algodaorender.png)
 
 Após as alterações realizadas o tempo de impressão diminuiu para cerca de 4 horas. O processo de impressão pode se dizer que foi bem sucedido pois o mesmo não foi novidade para mim pois possuo uma máquina de impressão 3D.
 
 ## Resultado Final
 
-![](attachments/Pasted%20image%2020260610130308.png)
+![](algodaoresultado.png)
 
 ## Reflexão
 

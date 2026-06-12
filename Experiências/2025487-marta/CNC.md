@@ -46,22 +46,22 @@ O suporte inclui ainda um compartimento para guardar o teclado, ajudando a mante
 **O que tentei:**
 Comecei por ver referências e propostas de design de suportes na plataforma Pinterest, na qual a pesquisa me ajudou a definir melhor na minha mente o que seria funcional e útil de modo a tornar o design, um bom design. Após essa reflexão, iniciei e produzi o seu modelo em 3D no fusion, com as dimensão ajustadas e indicadas à tabua facultada e selecionada no FabLab de Benfica.
 
-![](attachments/Pasted%20image%2020260610131140.png)
-![](attachments/Pasted%20image%2020260610131154.png)
+![](fusion1.png)
+![](fusion2.png)
 
 ### Iteração 2 — Integração de Dog Bones
 
 **O que tentei:**
 Após a produção do design fui confrontada com a problemática de ângulos retos e a sua impossibilidade de se executar na CNC. Então como solução por sugestão do professor introduzi *dog bones* nas áreas retas que consequentemente também seriam as de encaixe.
 
-![](attachments/Pasted%20image%2020260610131234.png)
-![](attachments/WhatsApp%20Video%202026-06-09%20at%2019.52.28.mp4)
+![](fusion3.png)
+![](Attachments/videocnc.mp4)
 
 ## Resultado Final
 
-![](attachments/Pasted%20image%2020260610131713.png)
-![](attachments/Pasted%20image%2020260610131334.png)
-![](attachments/Pasted%20image%2020260610131356.png)
+![](cncmontado2.png)
+![](cnc1.png)
+![](Attachments/cncmontado.png)
 
 ## Reflexão
 

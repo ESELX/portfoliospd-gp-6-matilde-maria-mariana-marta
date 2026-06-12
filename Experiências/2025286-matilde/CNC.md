@@ -18,7 +18,7 @@ student_number: "2025286"
 
 > Para o corte CNC desenvolvi uma estrela para chaveiros, decorativa e atrativa no seu caráter.
 
-![](attachments/Star_keychain_2026-Jun-10_03-19-15PM-000_CustomizedView51804945668_jpg.jpg)
+![](cncrender.jpg)
 
 ## Conceito
 
@@ -46,15 +46,15 @@ Estes projetos não chegaram a ter a possibilidade de serem executados na própr
 **O que tentei:**
 Apos encontrar referencias de silhueta para estabelecer o esboço, no programa Fusion Autodesk, procedi para fazer a sua extrusão e depois utilizei a ferramenta de *hole* e em seguida seria indicado encontrar uma prancha de mdf no FablLab que respeitasse as necessidades do modelo e ultimamente preparar o ficheiro para a sua execução na maquina.
 
-![](attachments/Pasted%20image%2020260610161145.png)
-![](attachments/Pasted%20image%2020260610161239.png)
-![](attachments/Pasted%20image%2020260610161440.png)
+![](estrelafusion.png)
+![](estrelafusion2.png)
+![](estrelafusion3.png)
 
 ## Resultado Final
 
 **Render de uma aproximação de como ficaria o modelo cortado:**
 
-![](attachments/Star_keychain_2026-Jun-10_03-19-15PM-000_CustomizedView51804945668_jpg.jpg)
+![](cncrender.jpg)
 
 ## Reflexão
 

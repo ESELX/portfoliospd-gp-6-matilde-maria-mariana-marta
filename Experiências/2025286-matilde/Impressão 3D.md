@@ -18,7 +18,7 @@ student_number: "2025286"
 
 > Para o projeto desenvolvido na impressora 3D desenvolvi um visual que explora a forma do botão como base para canecas.
 
-![](attachments/Pasted%20image%2020260610134222.png)
+![](botaoresultado.png)
 
 ## Conceito
 
@@ -45,7 +45,7 @@ O botão surgiu como um decoração para o meu espaço criativo, que ao desenvol
 **O que tentei:**
 O processo de prototipagem começou no programa Fusion Autodesk, onde primeiramente desenhei o esboço da forma e depois extrudi a mesma e arredondei as bordas para criar um visual aconchegante e atraente.
 
-![](attachments/Pasted%20image%2020260610133415.png)
+![](botao1.png)
 
 ### Iteração 2 — Impressão 3D
 
@@ -54,7 +54,7 @@ O processo de impressão encontra-se na pasta de tutoriais, onde esta proposta f
 
 ## Resultado Final
 
-![](attachments/Pasted%20image%2020260610134222.png)
+![](botaoresultado.png)
 
 ## Reflexão
 

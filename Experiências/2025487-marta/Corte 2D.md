@@ -18,7 +18,7 @@ student_number: "2025487"
 
 > Este sticker de vinil 2D apresenta um polvo de forma simples e fluida, com linhas suaves que sugerem movimento e leveza.
 
-![](attachments/Pasted%20image%2020260610130819.png)
+![](polvouso.png)
 
 ## Conceito
 
@@ -46,22 +46,22 @@ No geral, o sticker procura ser equilibrado: visualmente apelativo, fácil de ap
 **O que tentei:**
 Para esta etapa de trabalho, selecionei um desenho de um polvo com somente linha e mancha sendo assim meramente silhueta. 
 
-![](attachments/Pasted%20image%2020260610130709.png)
+![](Attachments/polvo.png)
 
 Após a sua seleção, coloquei o desenho no Adobe Illustrator, passando o desenho para silhueta, tornando se um cortante.
 
-![](attachments/Pasted%20image%2020260610130731.png)
+![](polvoillustrator.png)
 
 ### Iteração 2 — Importação e Recorte de Vinil
 
 **O que tentei:**
 De seguida tive que introduzir o documento dxf, do ficheiro, no programa da impressora (Silhouette Studio) por cabo, na qual introduzi um recorte de autocolante vinílico da cor que selecionei previamente.
 
-![](attachments/Pasted%20image%2020260610130800.png)
+![](Attachments/polvoresultado.png)
 
 ## Resultado Final
 
-![](attachments/Pasted%20image%2020260610130819.png)
+![](polvouso.png)
 
 ## Reflexão
 

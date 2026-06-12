@@ -18,7 +18,7 @@ student_number: "2025286"
 
 > Para a plotter tinha a intenção de desenhar uma imagem que fosse de fácil impressão: a flor de 5 pétalas.
 
-![](attachments/Pasted%20image%2020260610125217.png)
+![](vinilresultado1.png)
 
 ## Conceito
 
@@ -38,7 +38,7 @@ Para a plotter tinha a intenção de desenhar uma imagem que fosse de fácil imp
 - Passagem de ficheiro para programa Silhouette Studio 
 - Programação e monitorização de impressão de corte 2D por cabo
 
-![](attachments/Pasted%20image%2020260610134624.png)
+![](vinilflor.png)
 
 ## Processo
 
@@ -49,7 +49,7 @@ Para esta etapa de trabalho, está apresentada na pasta de tutoriais, que foi us
 
 ## Resultado Final
 
-![](attachments/Pasted%20image%2020260610125217.png)
+![](vinilresultado1.png)
 
 ## Reflexão
 

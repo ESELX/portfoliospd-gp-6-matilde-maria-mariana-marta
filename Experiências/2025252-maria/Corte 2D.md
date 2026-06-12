@@ -18,7 +18,7 @@ student_number: "2025252"
 
 > Para a plotter criei um só autocolante da silhueta de um gato.
 
-![](attachments/Pasted%20image%2020260610125652.png)
+![](gatovinil.png)
 
 ## Conceito
 
@@ -42,11 +42,11 @@ Para a plotter criei um só autocolante da silhueta de um gato. Utilizei um pape
 **O que tentei:**
 Utilizei o programa Silhouette Studio para passar o trabalho para a máquina. O corte foi extremamente rápido, tendo demorado por volta de 10 segundos.
 
-![](attachments/Pasted%20image%2020260610125652.png)
+![](gatovinil.png)
 
 ## Resultado Final
 
-![](attachments/Pasted%20image%2020260610125652.png)
+![](gatovinil.png)
 
 ## Reflexão
 

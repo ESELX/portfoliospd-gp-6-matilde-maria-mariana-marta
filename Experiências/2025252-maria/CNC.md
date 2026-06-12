@@ -18,7 +18,7 @@ student_number: "2025252"
 
 > Para a máquina CNC criei um puzzle com as letras B A C O N em que utilizei um tipo de encaixe de deslizo.
 
-![](attachments/Pasted%20image%2020260610125810.png)
+![](bacon2.png)
 
 ## Conceito
 
@@ -41,11 +41,11 @@ Para a máquina CNC criei um puzzle com as letras B A C O N em que utilizei um t
 **O que tentei:**
 O processo no total demorou por volta de 15 minutos, o que foi bastante rápido.
 
-![](attachments/Pasted%20image%2020260610125810.png)
+![](bacon2.png)
 
 ## Resultado Final
 
-![](attachments/Pasted%20image%2020260610125810.png)
+![](bacon2.png)
 
 ## Reflexão
 

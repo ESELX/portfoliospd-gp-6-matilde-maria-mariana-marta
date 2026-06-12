@@ -55,22 +55,22 @@ Como referido anteriormente, este tutorial é aplicavel a maquinas Bambu e ao se
 ## 4. Como operar a máquina passo-a-passo
 
 1. Após ligar a maquina, deve-se exportar o projeto, no canto superior direito do programa deve-se clicar em "Open Project" e selecionar o ficheiro exportado anteriormente.
-![](Pasted%20image%2020260527171613.png)
+![](Bambulab1.png)
 
 2. Em seguida deve-se fazer os adjustments necessários ao modelo de acordo com as necessidades da impressora e os seus filamentos. 
-![](Pasted%20image%2020260527171732.png)
+![](Bambulab2.png)
 
 3. Uma vez pronto, seleciona-se "Slice plate" no canto superior direito, que vai fornecer a informação sobre a quantidade de filamento necessária e a duração de impressão.
-![](Pasted%20image%2020260527172212.png)
+![](Slicing.png)
 
 4. Uma vez com o slicing pronto podemos inserir o cartão SD da impressora 3D no computador, clicar em "Print plate" e selecionar "Export plate sliced file" para o cartão SD. Depois disso basta ejetar o cartão SD e inserir na ranhura designada do equipamento de impressão. 
-![](Pasted%20image%2020260527174323.png)
+![](Slicing2.png)
 
 5. No ecrã da impressora seleciona-se o projeto a executar e depois é só esperar que a impressora opere! 
-![](Pasted%20image%2020260527174904.png)
+![](impressora3D.png)
 
 vídeo da execução do projeto:
-![](video1.mp4)
+![](video3d.mp4)
 
 ## 5. Resultado e pós-produção
 
