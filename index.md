@@ -45,13 +45,13 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
 <!-- markdownlint-disable MD033 -->
 <div class="gallery-grid">
 
-  <a class="gallery-card" href="tutoriais/corte-de-vinil/index">
+  <a class="gallery-card" href="tutoriais/corte-de-vinil/index.md">
     <img src="tutoriais/corte-de-vinil/attachments/hero.png" alt="" />
     <h3>Corte de Vinil</h3>
     <p>Silhouette Cameo</p>
   </a>
 
-  <a class="gallery-card" href="tutoriais/impressao-3d/index">
+  <a class="gallery-card" href="tutoriais/impressao-3d/index.md">
     <img src="tutoriais/impressao-3d/attachments/hero.png" alt="" />
     <h3>Impressão 3D</h3>
     <p>Bambu Lab A1 mini</p>
