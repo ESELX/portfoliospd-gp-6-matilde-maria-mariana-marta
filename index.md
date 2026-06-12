@@ -4,15 +4,15 @@ icon: lucide/users
 tags: galeria
 status: Completed
 hero_image: attachments/hero.jpg
-hero_title: Nome do Grupo
+hero_title: Grupo 6
 hero_subtitle: Prototipagem Digital · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
 course: PrototipagemDigital
-group_name: ""
-group_number: ""
+group_name: Grupo M's
+group_number: grupo 6
 members:
   - number: ""
     name: ""
