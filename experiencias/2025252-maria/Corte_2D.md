@@ -17,9 +17,6 @@ student_number: "2025252"
 # Gato de Vinil (Corte 2D)
 
 > Para a plotter criei um só autocolante da silhueta de um gato.
-
-![](gatovinil.png)
-
 ## Conceito
 
 Para a plotter criei um só autocolante da silhueta de um gato. Utilizei um papel azul ciano em que coloquei na máquina de Corte 2D.
@@ -42,11 +39,9 @@ Para a plotter criei um só autocolante da silhueta de um gato. Utilizei um pape
 **O que tentei:**
 Utilizei o programa Silhouette Studio para passar o trabalho para a máquina. O corte foi extremamente rápido, tendo demorado por volta de 10 segundos.
 
-![](gatovinil.png)
-
 ## Resultado Final
 
-![](gatovinil.png)
+![](gato.png)
 
 ## Reflexão
 

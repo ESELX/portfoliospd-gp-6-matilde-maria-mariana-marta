@@ -18,7 +18,7 @@ student_number: "2025316"
 
 > Para o corte de vinil fiz um sticker de um gato.
 
-![](gatovinilresultado.png)
+![](gato.png)
 
 ## Conceito
 
@@ -41,11 +41,9 @@ Para o corte de vinil fiz um sticker de um gato. Preparei a silhueta no Adobe Il
 **O que tentei:**
 Preparei a silhueta no Adobe Illustrator, exportei o ficheiro para dxf e abri com o programa Silhouette Studio para passar para a máquina.
 
-![](gatovinilresultado.png)
-
 ## Resultado Final
 
-![](gatovinilresultado.png)
+![](gato.png)
 
 ## Reflexão
 

@@ -46,9 +46,9 @@ Estes projetos não chegaram a ter a possibilidade de serem executados na própr
 **O que tentei:**
 Apos encontrar referencias de silhueta para estabelecer o esboço, no programa Fusion Autodesk, procedi para fazer a sua extrusão e depois utilizei a ferramenta de *hole* e em seguida seria indicado encontrar uma prancha de mdf no FablLab que respeitasse as necessidades do modelo e ultimamente preparar o ficheiro para a sua execução na maquina.
 
-![](estrelafusion.png)
-![](estrelafusion2.png)
-![](estrelafusion3.png)
+![](estrela.png)
+![](estrela2.png)
+![](estrela3.png)
 
 ## Resultado Final
 

@@ -17,9 +17,6 @@ student_number: "2025286"
 # Flor de 5 Pétalas (Corte 2D)
 
 > Para a plotter tinha a intenção de desenhar uma imagem que fosse de fácil impressão: a flor de 5 pétalas.
-
-![](vinilresultado1.png)
-
 ## Conceito
 
 Para a plotter tinha a intenção de desenhar uma imagem que fosse de fácil impressão, para sentir-me á vontade com o corte, para isso escolhi uma imagem que todos reconhecemos, a flor de 5 pétalas.
@@ -38,7 +35,7 @@ Para a plotter tinha a intenção de desenhar uma imagem que fosse de fácil imp
 - Passagem de ficheiro para programa Silhouette Studio 
 - Programação e monitorização de impressão de corte 2D por cabo
 
-![](vinilflor.png)
+![](florvinil.png)
 
 ## Processo
 
@@ -49,7 +46,7 @@ Para esta etapa de trabalho, está apresentada na pasta de tutoriais, que foi us
 
 ## Resultado Final
 
-![](vinilresultado1.png)
+![](vinil.png)
 
 ## Reflexão
 

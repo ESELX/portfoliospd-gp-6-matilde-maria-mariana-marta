@@ -18,7 +18,7 @@ student_number: "2025316"
 
 > Para a impressora 3D desenvolvi um copo para lápis com compartimento e um porta-chaves em formato de coração.
 
-![](3dcoracao.png)
+![](coracao.png)
 
 ## Conceito
 
@@ -47,11 +47,9 @@ Para a impressora 3D desenvolvi um copo para lápis com um compartimento embaixo
 **O que tentei:**
 Fiz também um porta chaves em formato de coração. A peça foi modelada em 3D com o Autodesk Fusion, exportada para um ficheiro STL para o programa Bambu Studio para ser preparada para a impressão 3D na máquina Bambu Lab A1 mini.
 
-![](3dcoracao.png)
-
 ## Resultado Final
 
-![](3dcoracao.png)
+![](coracao.png)
 
 ## Reflexão
 

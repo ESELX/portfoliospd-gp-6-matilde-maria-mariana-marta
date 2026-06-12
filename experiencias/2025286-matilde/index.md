@@ -25,8 +25,8 @@ student_number: "2025286"
 - [**CNC**: Estrela para Chaveiros](experiencias/2025286-matilde/CNC.md)
   Para o corte CNC desenvolvi uma estrela para chaveiros, decorativa e atrativa no seu caráter.
 
-- [**Corte 2D**: Flor de 5 Pétalas](experiencias/2025286-matilde/Corte%202D.md)
+- [**Corte 2D**: Flor de 5 Pétalas](experiencias/2025286-matilde/Corte_2D)
   Para a plotter criei um autocolante com o design de uma flor de 5 pétalas.
 
-- [**Impressão 3D**: Base de Copos Botão](experiencias/2025286-matilde/Impressão%203D.md)
+- [**Impressão 3D**: Base de Copos Botão](experiencias/2025286-matilde/Impressão_3D)
   Para a impressora 3D criei uma base de copos inspirada na forma de um botão de costura.

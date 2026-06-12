@@ -18,7 +18,7 @@ student_number: "2025316"
 
 > Para a máquina CNC decidi criar um suporte para tablet que fosse desmontável.
 
-![](telemovelcnc.png)
+![](cnc.png)
 
 ## Conceito
 
@@ -41,11 +41,9 @@ Para a máquina CNC decidi criar um suporte para tablet que fosse desmontável. 
 **O que tentei:**
 Pesquisei referências, escolhi as medidas e modelei a peça no Autodesk Fusion.
 
-![](telemovelcnc.png)
-
 ## Resultado Final
 
-![](telemovelcnc.png)
+![](cnc.png)
 
 ## Reflexão
 

@@ -17,9 +17,6 @@ student_number: "2025286"
 # Base de Copos Botão (Impressão 3D)
 
 > Para o projeto desenvolvido na impressora 3D desenvolvi um visual que explora a forma do botão como base para canecas.
-
-![](botaoresultado.png)
-
 ## Conceito
 
 Para o projeto desenvolvido na impressora 3D desenvolvi um visual que é persistente no meu dia a dia, compreendendo que um dos meus hobbies é costura e bordar, e explorar a forma do botão. 
@@ -45,7 +42,7 @@ O botão surgiu como um decoração para o meu espaço criativo, que ao desenvol
 **O que tentei:**
 O processo de prototipagem começou no programa Fusion Autodesk, onde primeiramente desenhei o esboço da forma e depois extrudi a mesma e arredondei as bordas para criar um visual aconchegante e atraente.
 
-![](botao1.png)
+![](botao.png)
 
 ### Iteração 2 — Impressão 3D
 
@@ -54,7 +51,7 @@ O processo de impressão encontra-se na pasta de tutoriais, onde esta proposta f
 
 ## Resultado Final
 
-![](botaoresultado.png)
+![](botaofinal.png)
 
 ## Reflexão
 
