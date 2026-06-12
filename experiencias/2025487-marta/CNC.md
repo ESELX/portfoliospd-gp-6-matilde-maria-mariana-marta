@@ -18,7 +18,7 @@ student_number: "2025487"
 
 > Este suporte de PC, produzido por corte CNC, surge da procura por uma solução prática e organizada para o dia a dia.
 
-![](Experiências/2025487-marta/attachments/hero.png)
+![](experiencias/2025487-marta/attachments/hero.png)
 
 ## Conceito
 
@@ -55,13 +55,13 @@ Comecei por ver referências e propostas de design de suportes na plataforma Pin
 Após a produção do design fui confrontada com a problemática de ângulos retos e a sua impossibilidade de se executar na CNC. Então como solução por sugestão do professor introduzi *dog bones* nas áreas retas que consequentemente também seriam as de encaixe.
 
 ![](fusion3.png)
-![](Attachments/videocnc.mp4)
+![](attachments/videocnc.mp4)
 
 ## Resultado Final
 
 ![](cncmontado2.png)
 ![](cnc1.png)
-![](Attachments/cncmontado.png)
+![](attachments/cncmontado.png)
 
 ## Reflexão
 

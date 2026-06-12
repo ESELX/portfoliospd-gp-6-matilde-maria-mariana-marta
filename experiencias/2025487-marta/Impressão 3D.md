@@ -46,7 +46,7 @@ O modelo também foi pensado para impressão 3D, utilizando formas simples que a
 **O que tentei:**
 Iniciei por uma busca de referências na plataforma Pinterest. Após descobrir algumas hipóteses disponíveis a desenvolver, comecei o processo de modelagem 3D. Selecionei a opção de um dispensário de cotonetes e discos de algodão para impressão na Bambu Lab Mini.
 
-![](Attachments/algodao.png)
+![](attachments/algodao.png)
 
 ### Iteração 2 — Otimização do Tempo de Impressão
 

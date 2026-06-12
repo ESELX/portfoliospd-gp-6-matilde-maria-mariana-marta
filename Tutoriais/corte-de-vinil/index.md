@@ -17,7 +17,7 @@ machine_name: "Silhouette Cameo"
 
 > O corte vinil é uma técnica de recorte em um equipamento precisão para películas autoadesivas ou termocolantes, concebendo este a partir da aplicação Silhouette Studio e produzindo o projeto em no Adobe Illustrator.
 
-![](Tutoriais/corte-de-vinil/attachments/hero.png)
+![](tutoriais/corte-de-vinil/attachments/hero.png)
 
 **Tutorial 101:**
 Modelo: Silhouette Cameo 

@@ -46,7 +46,7 @@ No geral, o sticker procura ser equilibrado: visualmente apelativo, fácil de ap
 **O que tentei:**
 Para esta etapa de trabalho, selecionei um desenho de um polvo com somente linha e mancha sendo assim meramente silhueta. 
 
-![](Attachments/polvo.png)
+![](attachments/polvo.png)
 
 Após a sua seleção, coloquei o desenho no Adobe Illustrator, passando o desenho para silhueta, tornando se um cortante.
 
@@ -57,7 +57,7 @@ Após a sua seleção, coloquei o desenho no Adobe Illustrator, passando o desen
 **O que tentei:**
 De seguida tive que introduzir o documento dxf, do ficheiro, no programa da impressora (Silhouette Studio) por cabo, na qual introduzi um recorte de autocolante vinílico da cor que selecionei previamente.
 
-![](Attachments/polvoresultado.png)
+![](attachments/polvoresultado.png)
 
 ## Resultado Final
 

@@ -18,15 +18,15 @@ student_number: "2025316"
 
 > Portfólio individual com os projetos desenvolvidos ao longo da unidade curricular de Prototipagem Digital.
 
-![](Experiências/2025316-mariana/attachments/hero.png)
+![](experiencias/2025316-mariana/attachments/hero.png)
 
 ## Projetos e Exercícios Desenvolvidos
 
-- [**CNC**: Suporte para Tablet](CNC.md)
+- [**CNC**: Suporte para Tablet](experiencias/2025316-mariana/CNC.md)
   Para a máquina CNC decidi criar um suporte para tablet que fosse desmontável.
 
-- [**Corte 2D**: Sticker de Gato](Corte%202D.md)
+- [**Corte 2D**: Sticker de Gato](experiencias/2025316-mariana/Corte%202D.md)
   Para o corte de vinil fiz um sticker de um gato.
 
-- [**Impressão 3D**: Copo de Lápis e Porta-Chaves](Impress%C3%A3o%203D.md)
+- [**Impressão 3D**: Copo de Lápis e Porta-Chaves](experiencias/2025316-mariana/Impressão%203D.md)
   Para a impressora 3D desenvolvi um copo para lápis suspenso e um porta-chaves de coração.
