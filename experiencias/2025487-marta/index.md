@@ -25,7 +25,7 @@ student_number: "2025487"
 - [**CNC**: Suporte de PC](experiencias/2025487-marta/CNC.md)
   Este suporte de PC, produzido por corte CNC, surge da procura por uma solução prática e organizada para o dia a dia.
   
-- [**Corte 2D**: Sticker de Polvo](experiencias/2025487-marta/Corte_2D.md)
+- [**Corte 2D**: Sticker de Polvo](Corte_2D.md)
   Este sticker de vinil 2D apresenta um polvo de forma simples e fluida, com linhas suaves que sugerem movimento e leveza.
   
 - [**Impressão 3D**: Suporte de Discos de Algodão](experiencias/2025487-marta/Impressão_3D.md)
